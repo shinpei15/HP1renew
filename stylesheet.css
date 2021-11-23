@@ -325,3 +325,9 @@ h3{
 .footer-right ul{
     padding-left: 10px;
 }
+a{
+    text-decoration: none;
+}
+.footer a{
+    color: black;
+}

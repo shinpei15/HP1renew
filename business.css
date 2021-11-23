@@ -279,3 +279,9 @@ span{
     opacity: 0.5;
     transition: 0.5s;
 }
+a{
+    text-decoration: none;
+}
+.footer a{
+    color: black;
+}

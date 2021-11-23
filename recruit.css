@@ -164,13 +164,16 @@ span{
     display: flex;
     height: 570px;
 }
-
+.internship h3{
+    text-align: center;
+}
 
 .branch1{
     font-size: 30px;
 }
 .branch2{
     color:black;
+    font-weight: bold;
 }
 .name p{
     line-height: 1.4;
@@ -318,4 +321,10 @@ span{
     width: 150px;
     border-radius: 10px;
     font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+.footer a{
+    color: black;
 }

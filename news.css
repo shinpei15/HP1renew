@@ -188,3 +188,9 @@
     border-radius: 10px;
     font-weight: bold;
 }
+a{
+    text-decoration: none;
+}
+.footer a{
+    color: black;
+}
